@@ -16,21 +16,21 @@
 # affiliated with Microsoft.
 
 {
-    "id" : "c3c6d696-d0a4-4bd0-85f2-fa41cde27adb",
+    "id" : "524971f6-251d-42a9-a4f4-e550861d077d",
     "version" : {
         "major" : 0,
         "minor" : 50,
         "patch" : 7,
         "extra" : ""
     },
-    "xpCost" : 0,
-    "source" : "A Time of War",
-    "name" : "Former Free Worlds League - General (3075)",
-    "flavorText" : "I come from the ashes of the League—our banners scattered, our unity broken—yet I still carry its memory, and I will see its strength reborn in me.",
+    "xpCost" : 55,
+    "source" : "Era Report: 3052",
+    "name" : "Federated Commonwealth - Steiner Loyalty (3052)",
+    "flavorText" : "I am Steiner at heart, heir to industry and resolve. In the Commonwealth, our wealth and will forge the strength that keeps unity alive.",
     "age" : 0,
     "xpDiscount" : 0,
-    "minimumYear" : 3075,
-    "maximumYear" : 3078,
+    "minimumYear" : 3052,
+    "maximumYear" : 3057,
     "randomWeight" : 1.0,
     "lifeStages" : [
         "AFFILIATION"
@@ -42,9 +42,8 @@
     "requirementsFactions" : {
         "0" : [
             "CS",
-            "ROS",
             "WOB",
-            "RCM"
+            "FC"
         ]
     },
     "requirementsLifePath" : {
@@ -97,67 +96,64 @@
         "0" : { }
     },
     "fixedXPAttributes" : {
-        "0" : { }
+        "0" : {
+            "WILLPOWER" : -50
+        }
     },
-    "fixedXPEdge" : { },
-    "fixedXPFlexibleAttribute" : { },
+    "fixedXPEdge" : {
+        "0" : -50
+    },
+    "fixedXPFlexibleAttribute" : {
+        "0" : null
+    },
     "fixedXPTraits" : {
-        "0" : { }
+        "0" : {
+            "WEALTH" : 100,
+            "EXTRA_INCOME" : 50,
+            "EQUIPPED" : 100
+        }
     },
     "fixedXPSkills" : {
         "0" : {
+            "Negotiation" : 15,
+            "Protocols/Any (RP Only)" : 15,
+            "Appraisal (RP Only)" : 10,
             "Language/Any (RP Only)" : 15
         }
     },
     "fixedXPMetaSkills" : {
-        "0" : {
-            "ROLEPLAY_INTEREST" : 15
-        }
+        "0" : { }
     },
     "fixedXPAbilities" : {
         "0" : {
-            "compulsion_bionic_hate" : -100
+            "compulsion_parent_faction_dislike" : -50
         }
     },
     "flexibleXPAttributes" : {
         "0" : { },
-        "1" : { },
-        "2" : { },
-        "3" : { }
+        "1" : { }
     },
     "flexibleXPEdge" : { },
     "flexibleXPFlexibleAttribute" : { },
     "flexibleXPTraits" : {
         "0" : { },
-        "1" : { },
-        "2" : { },
-        "3" : { }
+        "1" : { }
     },
     "flexibleXPSkills" : {
-        "0" : {
-            "Small Arms" : 15
-        },
-        "1" : {
-            "Negotiation" : 15
-        },
-        "2" : {
-            "Martial Arts (RP Only)" : 15
-        },
-        "3" : { }
+        "0" : { },
+        "1" : { }
     },
     "flexibleXPMetaSkills" : {
         "0" : { },
-        "1" : { },
-        "2" : { },
-        "3" : {
-            "ROLEPLAY_ART" : 15
-        }
+        "1" : { }
     },
     "flexibleXPAbilities" : {
-        "0" : { },
-        "1" : { },
-        "2" : { },
-        "3" : { }
+        "0" : {
+            "atow_combat_paralysis" : -100
+        },
+        "1" : {
+            "flaw_glass_jaw" : -100
+        }
     },
     "flexibleXPPickCount" : 1
 }

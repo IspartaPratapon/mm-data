@@ -41,36 +41,50 @@
     "isPlayerRestricted" : false,
     "requirementsFactions" : {
         "0" : [
+            "DC"
+        ],
+        "1" : [
             "CS",
             "ROS",
-            "WOB",
-            "DC"
+            "WOB"
         ]
     },
     "requirementsLifePath" : {
-        "0" : [ ]
+        "0" : [ ],
+        "1" : [
+            "e06eecf3-9a2e-411d-8f5e-7b4a9aeb3269"
+        ]
     },
     "requirementsCategories" : {
-        "0" : { }
+        "0" : { },
+        "1" : { }
     },
     "requirementsAttributes" : {
-        "0" : { }
+        "0" : { },
+        "1" : { }
     },
-    "requirementsEdge" : { },
+    "requirementsEdge" : {
+        "1" : null
+    },
     "requirementsFlexibleAttribute" : {
-        "0" : null
+        "0" : null,
+        "1" : null
     },
     "requirementsTraits" : {
-        "0" : { }
+        "0" : { },
+        "1" : { }
     },
     "requirementsSkills" : {
-        "0" : { }
+        "0" : { },
+        "1" : { }
     },
     "requirementsMetaSkills" : {
-        "0" : { }
+        "0" : { },
+        "1" : { }
     },
     "requirementsAbilities" : {
-        "0" : { }
+        "0" : { },
+        "1" : { }
     },
     "exclusionsFactions" : {
         "0" : [ ]

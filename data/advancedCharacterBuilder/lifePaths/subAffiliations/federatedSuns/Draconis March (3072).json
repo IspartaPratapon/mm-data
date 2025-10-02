@@ -29,7 +29,7 @@
     "flavorText" : "I come from the Draconis March, where the Dragon’s shadow shapes every day. We struck hard in the Jihad and were pulled back in disgrace, yet our duty has never changed: to stand ready, blade in hand.",
     "age" : 0,
     "xpDiscount" : 0,
-    "minimumYear" : 0,
+    "minimumYear" : 3072,
     "maximumYear" : 9999,
     "randomWeight" : 1.0,
     "lifeStages" : [
@@ -41,38 +41,68 @@
     "isPlayerRestricted" : false,
     "requirementsFactions" : {
         "0" : [
+            "FS"
+        ],
+        "1" : [
             "CS",
             "ROS",
-            "WOB",
-            "FS"
+            "WOB"
+        ],
+        "2" : [
+            "CS",
+            "ROS",
+            "WOB"
         ]
     },
     "requirementsLifePath" : {
-        "0" : [ ]
+        "0" : [ ],
+        "1" : [
+            "776136c8-acec-4464-9e73-bcf7b0ddcb3d"
+        ],
+        "2" : [
+            "776136c8-acec-4464-9e73-bcf7b0ddcb3d",
+            "efae675c-1e29-4036-bee9-49757e75a051"
+        ]
     },
     "requirementsCategories" : {
-        "0" : { }
+        "0" : { },
+        "1" : { },
+        "2" : { }
     },
     "requirementsAttributes" : {
-        "0" : { }
+        "0" : { },
+        "1" : { },
+        "2" : { }
     },
     "requirementsEdge" : {
-        "0" : 0
+        "0" : 0,
+        "1" : 0,
+        "2" : 0
     },
     "requirementsFlexibleAttribute" : {
-        "0" : null
+        "0" : null,
+        "1" : null,
+        "2" : null
     },
     "requirementsTraits" : {
-        "0" : { }
+        "0" : { },
+        "1" : { },
+        "2" : { }
     },
     "requirementsSkills" : {
-        "0" : { }
+        "0" : { },
+        "1" : { },
+        "2" : { }
     },
     "requirementsMetaSkills" : {
-        "0" : { }
+        "0" : { },
+        "1" : { },
+        "2" : { }
     },
     "requirementsAbilities" : {
-        "0" : { }
+        "0" : { },
+        "1" : { },
+        "2" : { }
     },
     "exclusionsFactions" : {
         "0" : [ ]

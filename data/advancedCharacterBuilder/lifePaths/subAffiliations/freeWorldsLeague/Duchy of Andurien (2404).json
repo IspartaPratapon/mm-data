@@ -41,39 +41,81 @@
     "isPlayerRestricted" : false,
     "requirementsFactions" : {
         "0" : [
-            "CS",
             "FWLR",
+            "FWL"
+        ],
+        "1" : [
+            "CS"
+        ],
+        "2" : [
+            "CS",
             "ROS",
-            "FWL",
+            "WOB"
+        ],
+        "3" : [
+            "CS",
             "WOB"
         ]
     },
     "requirementsLifePath" : {
-        "0" : [ ]
+        "0" : [ ],
+        "1" : [
+            "e31dcd9a-9c31-47b7-9efc-16a389522d85"
+        ],
+        "2" : [
+            "1c589d51-0202-48e9-9358-ba0420871435"
+        ],
+        "3" : [
+            "6d4ed4b0-f850-489d-96db-4c1146c958a4"
+        ]
     },
     "requirementsCategories" : {
-        "0" : { }
+        "0" : { },
+        "1" : { },
+        "2" : { },
+        "3" : { }
     },
     "requirementsAttributes" : {
-        "0" : { }
+        "0" : { },
+        "1" : { },
+        "2" : { },
+        "3" : { }
     },
     "requirementsEdge" : {
-        "0" : 0
+        "0" : 0,
+        "1" : 0,
+        "2" : 0,
+        "3" : 0
     },
     "requirementsFlexibleAttribute" : {
-        "0" : null
+        "0" : null,
+        "1" : null,
+        "2" : null,
+        "3" : null
     },
     "requirementsTraits" : {
-        "0" : { }
+        "0" : { },
+        "1" : { },
+        "2" : { },
+        "3" : { }
     },
     "requirementsSkills" : {
-        "0" : { }
+        "0" : { },
+        "1" : { },
+        "2" : { },
+        "3" : { }
     },
     "requirementsMetaSkills" : {
-        "0" : { }
+        "0" : { },
+        "1" : { },
+        "2" : { },
+        "3" : { }
     },
     "requirementsAbilities" : {
-        "0" : { }
+        "0" : { },
+        "1" : { },
+        "2" : { },
+        "3" : { }
     },
     "exclusionsFactions" : {
         "0" : [ ]

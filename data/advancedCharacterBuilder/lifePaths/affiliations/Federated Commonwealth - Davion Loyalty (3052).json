@@ -16,21 +16,21 @@
 # affiliated with Microsoft.
 
 {
-    "id" : "08ac3fb1-5172-4e10-8bc4-63ce770fd40b",
+    "id" : "25699178-d833-49f3-87eb-4133cffb7234",
     "version" : {
         "major" : 0,
         "minor" : 50,
         "patch" : 7,
         "extra" : ""
     },
-        "xpCost": 25,
-    "source" : "A Time of War",
-    "name" : "Capellan Confederation (3053)",
-    "flavorText" : "I am Capellan in 3053—scarred by war, yet alive when others wished us dead. The Confederation endures because the Chancellor’s will is iron, and through that will, so am I.",
+    "xpCost" : 75,
+    "source" : "Era Report: 3052",
+    "name" : "Federated Commonwealth - Davion Loyalty (3052)",
+    "flavorText" : "I am Davion at heart, carrying the Suns’ fire into the Commonwealth. Unity gives us strength, but it is duty and sacrifice that make us worthy of it.",
     "age" : 0,
     "xpDiscount" : 0,
-    "minimumYear" : 3053,
-    "maximumYear" : 3100,
+    "minimumYear" : 3052,
+    "maximumYear" : 9999,
     "randomWeight" : 1.0,
     "lifeStages" : [
         "AFFILIATION"
@@ -41,11 +41,9 @@
     "isPlayerRestricted" : false,
     "requirementsFactions" : {
         "0" : [
-            "CC",
             "CS",
-            "ROS",
             "WOB",
-            "SIC"
+            "FC"
         ]
     },
     "requirementsLifePath" : {
@@ -55,9 +53,11 @@
         "0" : { }
     },
     "requirementsAttributes" : {
-        "0" : { }
+        "0" : {
+            "INTELLIGENCE" : 4
+        }
     },
-"requirementsEdge": {},
+    "requirementsEdge" : { },
     "requirementsFlexibleAttribute" : { },
     "requirementsTraits" : {
         "0" : { }
@@ -83,7 +83,7 @@
     "exclusionsAttributes" : {
         "0" : { }
     },
-"exclusionsEdge": {},
+    "exclusionsEdge" : { },
     "exclusionsFlexibleAttribute" : { },
     "exclusionsTraits" : {
         "0" : { }
@@ -98,24 +98,17 @@
         "0" : { }
     },
     "fixedXPAttributes" : {
-        "0" : {
-            "WILLPOWER" : 50
-        }
+        "0" : { }
     },
-"fixedXPEdge": {
-"0": 50
-},
-"fixedXPFlexibleAttribute": {
-"0" : null
-},
+    "fixedXPEdge" : { },
+    "fixedXPFlexibleAttribute" : { },
     "fixedXPTraits" : {
         "0" : { }
     },
     "fixedXPSkills" : {
         "0" : {
-            "Martial Arts (RP Only)" : 5,
             "Protocols/Any (RP Only)" : 10,
-            "Language/Any (RP Only)" : 10
+            "Language/Any (RP Only)" : 15
         }
     },
     "fixedXPMetaSkills" : {
@@ -123,15 +116,34 @@
     },
     "fixedXPAbilities" : {
         "0" : {
-            "compulsion_mild_paranoia" : -100
+            "compulsion_parent_faction_dislike" : -50
         }
     },
-    "flexibleXPAttributes" : { },
-"flexibleXPEdge" : {},
+    "flexibleXPAttributes" : {
+        "0" : { },
+        "1" : { }
+    },
+    "flexibleXPEdge" : { },
     "flexibleXPFlexibleAttribute" : { },
-    "flexibleXPTraits" : { },
-    "flexibleXPSkills" : { },
-    "flexibleXPMetaSkills" : { },
-    "flexibleXPAbilities" : { },
-    "flexibleXPPickCount" : 0
+    "flexibleXPTraits" : {
+        "0" : { },
+        "1" : { }
+    },
+    "flexibleXPSkills" : {
+        "0" : {
+            "Tactics/Any" : 100
+        },
+        "1" : {
+            "Strategy" : 100
+        }
+    },
+    "flexibleXPMetaSkills" : {
+        "0" : { },
+        "1" : { }
+    },
+    "flexibleXPAbilities" : {
+        "0" : { },
+        "1" : { }
+    },
+    "flexibleXPPickCount" : 1
 }

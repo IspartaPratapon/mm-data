@@ -16,7 +16,7 @@
 # affiliated with Microsoft.
 
 {
-    "id" : "1c589d51-0202-48e9-9358-ba0420871435",
+    "id" : "b01c19b7-ca40-40a5-bb18-795df2c0c2ee",
     "version" : {
         "major" : 0,
         "minor" : 50,
@@ -25,12 +25,12 @@
     },
     "xpCost" : 0,
     "source" : "A Time of War",
-    "name" : "Former Free Worlds League - General (3079)",
-    "flavorText" : "I come from the ashes of the League—our banners scattered, our unity broken—yet I still carry its memory, and I will see its strength reborn in me.",
+    "name" : "Major Periphery (3052)",
+    "flavorText" : "I don’t serve the Inner Sphere—I serve my people. Out here on the edge, we don’t beg for respect. We earn it, one fight at a time.",
     "age" : 0,
     "xpDiscount" : 0,
-    "minimumYear" : 3079,
-    "maximumYear" : 3100,
+    "minimumYear" : 3052,
+    "maximumYear" : 3062,
     "randomWeight" : 1.0,
     "lifeStages" : [
         "AFFILIATION"
@@ -41,28 +41,14 @@
     "isPlayerRestricted" : false,
     "requirementsFactions" : {
         "0" : [
-            "OP",
-            "PR",
-            "DoO",
-            "WOB",
-            "DGM",
-            "DO",
-            "SHC",
             "CS",
-            "SC",
-            "DTA",
-            "DT",
-            "RF",
-            "MA",
-            "FWLR",
-            "MCM",
-            "ROS",
-            "PG",
-            "FWL",
-            "MSC",
-            "DA",
-            "RCM",
-            "RFS"
+            "MOC",
+            "OA",
+            "THW",
+            "MH",
+            "WOB",
+            "CIR",
+            "TC"
         ]
     },
     "requirementsLifePath" : {
@@ -120,62 +106,25 @@
     "fixedXPEdge" : { },
     "fixedXPFlexibleAttribute" : { },
     "fixedXPTraits" : {
-        "0" : { }
+        "0" : {
+            "EQUIPPED" : -50
+        }
     },
     "fixedXPSkills" : {
-        "0" : {
-            "Language/Any (RP Only)" : 15
-        }
+        "0" : { }
     },
     "fixedXPMetaSkills" : {
-        "0" : {
-            "ROLEPLAY_INTEREST" : 15
-        }
+        "0" : { }
     },
     "fixedXPAbilities" : {
-        "0" : {
-            "compulsion_bionic_hate" : -100
-        }
+        "0" : { }
     },
-    "flexibleXPAttributes" : {
-        "0" : { },
-        "1" : { },
-        "2" : { },
-        "3" : { }
-    },
+    "flexibleXPAttributes" : { },
     "flexibleXPEdge" : { },
     "flexibleXPFlexibleAttribute" : { },
-    "flexibleXPTraits" : {
-        "0" : { },
-        "1" : { },
-        "2" : { },
-        "3" : { }
-    },
-    "flexibleXPSkills" : {
-        "0" : {
-            "Small Arms" : 15
-        },
-        "1" : {
-            "Negotiation" : 15
-        },
-        "2" : {
-            "Martial Arts (RP Only)" : 15
-        },
-        "3" : { }
-    },
-    "flexibleXPMetaSkills" : {
-        "0" : { },
-        "1" : { },
-        "2" : { },
-        "3" : {
-            "ROLEPLAY_ART" : 15
-        }
-    },
-    "flexibleXPAbilities" : {
-        "0" : { },
-        "1" : { },
-        "2" : { },
-        "3" : { }
-    },
-    "flexibleXPPickCount" : 1
+    "flexibleXPTraits" : { },
+    "flexibleXPSkills" : { },
+    "flexibleXPMetaSkills" : { },
+    "flexibleXPAbilities" : { },
+    "flexibleXPPickCount" : 0
 }

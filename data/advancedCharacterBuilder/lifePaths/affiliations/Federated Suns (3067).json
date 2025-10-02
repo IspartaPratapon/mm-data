@@ -16,24 +16,24 @@
 # affiliated with Microsoft.
 
 {
-    "id" : "060f0416-c83f-4bcb-8017-7851dc6989c9",
+    "id" : "776136c8-acec-4464-9e73-bcf7b0ddcb3d",
     "version" : {
         "major" : 0,
         "minor" : 50,
         "patch" : 7,
         "extra" : ""
     },
-    "xpCost" : 115,
-    "source" : "Era Report 3062",
-    "name" : "St. Ives Compact (3052)",
-    "flavorText" : "I come from the St. Ives Compact, proud and independent. We stand apart in culture and spirit, shaping our own destiny even as greater powers circle around us.",
+    "xpCost" : 110,
+    "source" : "A Time of War",
+    "name" : "Federated Suns (3067)",
+    "flavorText" : "I come from the Federated Suns, proud to stand on our own once again. The dream of unity is gone, but House Davion endures, and with it our spirit of freedom and resolve.",
     "age" : 0,
     "xpDiscount" : 0,
-    "minimumYear" : 3052,
-    "maximumYear" : 9999,
+    "minimumYear" : 3067,
+    "maximumYear" : 3100,
     "randomWeight" : 1.0,
     "lifeStages" : [
-        "SUB_AFFILIATION"
+        "AFFILIATION"
     ],
     "categories" : [
         "GENERAL_INNER_SPHERE"
@@ -41,50 +41,35 @@
     "isPlayerRestricted" : false,
     "requirementsFactions" : {
         "0" : [
-            "SIC"
-        ],
-        "1" : [
             "CS",
-            "WOB"
+            "ROS",
+            "FS"
         ]
     },
     "requirementsLifePath" : {
-        "0" : [ ],
-        "1" : [
-            "08ac3fb1-5172-4e10-8bc4-63ce770fd40b"
-        ]
+        "0" : [ ]
     },
     "requirementsCategories" : {
-        "0" : { },
-        "1" : { }
+        "0" : { }
     },
     "requirementsAttributes" : {
-        "0" : { },
-        "1" : { }
+        "0" : {
+            "INTELLIGENCE" : 4
+        }
     },
-    "requirementsEdge" : {
-        "0" : 0,
-        "1" : 0
-    },
-    "requirementsFlexibleAttribute" : {
-        "0" : null,
-        "1" : null
-    },
+    "requirementsEdge" : { },
+    "requirementsFlexibleAttribute" : { },
     "requirementsTraits" : {
-        "0" : { },
-        "1" : { }
+        "0" : { }
     },
     "requirementsSkills" : {
-        "0" : { },
-        "1" : { }
+        "0" : { }
     },
     "requirementsMetaSkills" : {
-        "0" : { },
-        "1" : { }
+        "0" : { }
     },
     "requirementsAbilities" : {
-        "0" : { },
-        "1" : { }
+        "0" : { }
     },
     "exclusionsFactions" : {
         "0" : [ ]
@@ -98,12 +83,8 @@
     "exclusionsAttributes" : {
         "0" : { }
     },
-    "exclusionsEdge" : {
-        "0" : 0
-    },
-    "exclusionsFlexibleAttribute" : {
-        "0" : null
-    },
+    "exclusionsEdge" : { },
+    "exclusionsFlexibleAttribute" : { },
     "exclusionsTraits" : {
         "0" : { }
     },
@@ -119,40 +100,47 @@
     "fixedXPAttributes" : {
         "0" : { }
     },
-    "fixedXPEdge" : {
-        "0" : 25
-    },
-    "fixedXPFlexibleAttribute" : {
-        "0" : null
-    },
+    "fixedXPEdge" : { },
+    "fixedXPFlexibleAttribute" : { },
     "fixedXPTraits" : {
-        "0" : {
-            "REPUTATION" : -100,
-            "WEALTH" : 55
-        }
+        "0" : { }
     },
     "fixedXPSkills" : {
         "0" : {
-            "Language/Any (RP Only)" : 15,
-            "Protocols/Any (RP Only)" : 15
+            "Protocols/Any (RP Only)" : 10
         }
     },
     "fixedXPMetaSkills" : {
-        "0" : {
-            "ROLEPLAY_ART" : 5
-        }
+        "0" : { }
     },
     "fixedXPAbilities" : {
-        "0" : {
-            "compulsion_mild_paranoia" : 100
-        }
+        "0" : { }
     },
-    "flexibleXPAttributes" : { },
+    "flexibleXPAttributes" : {
+        "0" : { },
+        "1" : { }
+    },
     "flexibleXPEdge" : { },
     "flexibleXPFlexibleAttribute" : { },
-    "flexibleXPTraits" : { },
-    "flexibleXPSkills" : { },
-    "flexibleXPMetaSkills" : { },
-    "flexibleXPAbilities" : { },
-    "flexibleXPPickCount" : 0
+    "flexibleXPTraits" : {
+        "0" : { },
+        "1" : { }
+    },
+    "flexibleXPSkills" : {
+        "0" : {
+            "Tactics/Any" : 100
+        },
+        "1" : {
+            "Strategy" : 100
+        }
+    },
+    "flexibleXPMetaSkills" : {
+        "0" : { },
+        "1" : { }
+    },
+    "flexibleXPAbilities" : {
+        "0" : { },
+        "1" : { }
+    },
+    "flexibleXPPickCount" : 1
 }

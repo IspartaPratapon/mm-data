@@ -16,21 +16,21 @@
 # affiliated with Microsoft.
 
 {
-    "id" : "b24b4f30-cdf7-45f7-83a1-1893168e7d82",
+    "id" : "c3c6d696-d0a4-4bd0-85f2-fa41cde27adb",
     "version" : {
         "major" : 0,
         "minor" : 50,
         "patch" : 7,
         "extra" : ""
     },
-        "xpCost": 40,
-    "source" : "Era Report: 3052",
-    "name" : "Free Rasalhague Republic (3053)",
-    "flavorText" : "I was raised in the dawn of our Republic, when hope felt fragile but real—and I’ll fight to see that hope grow stronger than the chains we broke.",
+    "xpCost" : 0,
+    "source" : "A Time of War",
+    "name" : "Former Free Worlds League - Rim Commonality (3075)",
+    "flavorText" : "I come from the ashes of the League—our banners scattered, our unity broken—yet I still carry its memory, and I will see its strength reborn in me.",
     "age" : 0,
     "xpDiscount" : 0,
-    "minimumYear" : 3053,
-    "maximumYear" : 3062,
+    "minimumYear" : 3075,
+    "maximumYear" : 3078,
     "randomWeight" : 1.0,
     "lifeStages" : [
         "AFFILIATION"
@@ -42,8 +42,9 @@
     "requirementsFactions" : {
         "0" : [
             "CS",
-            "FRR",
-            "WOB"
+            "ROS",
+            "WOB",
+            "RCM"
         ]
     },
     "requirementsLifePath" : {
@@ -55,7 +56,7 @@
     "requirementsAttributes" : {
         "0" : { }
     },
-"requirementsEdge": {},
+    "requirementsEdge" : { },
     "requirementsFlexibleAttribute" : { },
     "requirementsTraits" : {
         "0" : { }
@@ -81,7 +82,7 @@
     "exclusionsAttributes" : {
         "0" : { }
     },
-"exclusionsEdge": {},
+    "exclusionsEdge" : { },
     "exclusionsFlexibleAttribute" : { },
     "exclusionsTraits" : {
         "0" : { }
@@ -96,37 +97,67 @@
         "0" : { }
     },
     "fixedXPAttributes" : {
-        "0" : {
-            "WILLPOWER" : 50
-        }
+        "0" : { }
     },
-"fixedXPEdge": {},
+    "fixedXPEdge" : { },
     "fixedXPFlexibleAttribute" : { },
     "fixedXPTraits" : {
         "0" : { }
     },
     "fixedXPSkills" : {
         "0" : {
-            "Negotiation" : 15,
-            "Small Arms" : 15
+            "Language/Any (RP Only)" : 15
         }
     },
     "fixedXPMetaSkills" : {
         "0" : {
-            "ROLEPLAY_INTEREST" : 10
+            "ROLEPLAY_INTEREST" : 15
         }
     },
     "fixedXPAbilities" : {
-"0": {
-"compulsion_merc_hate": -50
-}
+        "0" : {
+            "compulsion_bionic_hate" : -100
+        }
     },
-    "flexibleXPAttributes" : { },
-"flexibleXPEdge": {},
+    "flexibleXPAttributes" : {
+        "0" : { },
+        "1" : { },
+        "2" : { },
+        "3" : { }
+    },
+    "flexibleXPEdge" : { },
     "flexibleXPFlexibleAttribute" : { },
-    "flexibleXPTraits" : { },
-    "flexibleXPSkills" : { },
-    "flexibleXPMetaSkills" : { },
-    "flexibleXPAbilities" : { },
-    "flexibleXPPickCount" : 0
+    "flexibleXPTraits" : {
+        "0" : { },
+        "1" : { },
+        "2" : { },
+        "3" : { }
+    },
+    "flexibleXPSkills" : {
+        "0" : {
+            "Small Arms" : 15
+        },
+        "1" : {
+            "Negotiation" : 15
+        },
+        "2" : {
+            "Martial Arts (RP Only)" : 15
+        },
+        "3" : { }
+    },
+    "flexibleXPMetaSkills" : {
+        "0" : { },
+        "1" : { },
+        "2" : { },
+        "3" : {
+            "ROLEPLAY_ART" : 15
+        }
+    },
+    "flexibleXPAbilities" : {
+        "0" : { },
+        "1" : { },
+        "2" : { },
+        "3" : { }
+    },
+    "flexibleXPPickCount" : 1
 }

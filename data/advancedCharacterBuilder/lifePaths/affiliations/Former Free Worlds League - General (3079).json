@@ -16,7 +16,7 @@
 # affiliated with Microsoft.
 
 {
-    "id" : "cc55f53d-a262-4610-ba1a-78d8e83b2404",
+    "id" : "1c589d51-0202-48e9-9358-ba0420871435",
     "version" : {
         "major" : 0,
         "minor" : 50,
@@ -41,11 +41,28 @@
     "isPlayerRestricted" : false,
     "requirementsFactions" : {
         "0" : [
+            "OP",
+            "PR",
+            "DoO",
+            "WOB",
+            "DGM",
+            "DO",
+            "SHC",
             "CS",
+            "SC",
+            "DTA",
+            "DT",
+            "RF",
+            "MA",
             "FWLR",
+            "MCM",
             "ROS",
+            "PG",
             "FWL",
-            "WOB"
+            "MSC",
+            "DA",
+            "RCM",
+            "RFS"
         ]
     },
     "requirementsLifePath" : {

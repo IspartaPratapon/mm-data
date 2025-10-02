@@ -16,20 +16,20 @@
 # affiliated with Microsoft.
 
 {
-    "id" : "b01c19b7-ca40-40a5-bb18-795df2c0c2ee",
+    "id" : "b24b4f30-cdf7-45f7-83a1-1893168e7d82",
     "version" : {
         "major" : 0,
         "minor" : 50,
         "patch" : 7,
         "extra" : ""
     },
-    "xpCost" : 0,
-    "source" : "A Time of War",
-    "name" : "Major Periphery (3053)",
-    "flavorText" : "I don’t serve the Inner Sphere—I serve my people. Out here on the edge, we don’t beg for respect. We earn it, one fight at a time.",
+    "xpCost" : 40,
+    "source" : "Era Report: 3052",
+    "name" : "Free Rasalhague Republic (3052)",
+    "flavorText" : "I was raised in the dawn of our Republic, when hope felt fragile but real—and I’ll fight to see that hope grow stronger than the chains we broke.",
     "age" : 0,
     "xpDiscount" : 0,
-    "minimumYear" : 3053,
+    "minimumYear" : 3052,
     "maximumYear" : 3062,
     "randomWeight" : 1.0,
     "lifeStages" : [
@@ -42,13 +42,8 @@
     "requirementsFactions" : {
         "0" : [
             "CS",
-            "MOC",
-            "OA",
-            "THW",
-            "MH",
-            "WOB",
-            "CIR",
-            "TC"
+            "FRR",
+            "WOB"
         ]
     },
     "requirementsLifePath" : {
@@ -60,7 +55,7 @@
     "requirementsAttributes" : {
         "0" : { }
     },
-"requirementsEdge": {},
+    "requirementsEdge" : { },
     "requirementsFlexibleAttribute" : { },
     "requirementsTraits" : {
         "0" : { }
@@ -86,7 +81,7 @@
     "exclusionsAttributes" : {
         "0" : { }
     },
-"exclusionsEdge": {},
+    "exclusionsEdge" : { },
     "exclusionsFlexibleAttribute" : { },
     "exclusionsTraits" : {
         "0" : { }
@@ -101,26 +96,33 @@
         "0" : { }
     },
     "fixedXPAttributes" : {
-        "0" : { }
-    },
-"fixedXPEdge": {},
-    "fixedXPFlexibleAttribute" : { },
-    "fixedXPTraits" : {
         "0" : {
-            "EQUIPPED" : -50
+            "WILLPOWER" : 50
         }
     },
-    "fixedXPSkills" : {
+    "fixedXPEdge" : { },
+    "fixedXPFlexibleAttribute" : { },
+    "fixedXPTraits" : {
         "0" : { }
+    },
+    "fixedXPSkills" : {
+        "0" : {
+            "Negotiation" : 15,
+            "Small Arms" : 15
+        }
     },
     "fixedXPMetaSkills" : {
-        "0" : { }
+        "0" : {
+            "ROLEPLAY_INTEREST" : 10
+        }
     },
     "fixedXPAbilities" : {
-        "0" : { }
+        "0" : {
+            "compulsion_merc_hate" : -50
+        }
     },
     "flexibleXPAttributes" : { },
-"flexibleXPEdge" : {},
+    "flexibleXPEdge" : { },
     "flexibleXPFlexibleAttribute" : { },
     "flexibleXPTraits" : { },
     "flexibleXPSkills" : { },
