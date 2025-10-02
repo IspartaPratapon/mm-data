@@ -16,21 +16,21 @@
 # affiliated with Microsoft.
 
 {
-    "id" : "a82267e3-b7c3-426a-846d-01d47c2813dd",
+    "id" : "9594cbbe-4380-4d87-878a-18fc5a16104c",
     "version" : {
         "major" : 0,
         "minor" : 50,
         "patch" : 7,
         "extra" : ""
     },
-        "xpCost": 100,
+    "xpCost" : 100,
     "source" : "A Time of War",
     "name" : "Pesht Military District (3025)",
     "flavorText" : "I come from the Pesht Military District, where the Dragon’s rule is oldest and deepest. Here, obedience is tradition, and to serve with honor is the highest calling of life.",
     "age" : 0,
     "xpDiscount" : 0,
     "minimumYear" : 3025,
-"maximumYear": 3051,
+    "maximumYear" : 3051,
     "randomWeight" : 1.0,
     "lifeStages" : [
         "SUB_AFFILIATION"
@@ -54,7 +54,7 @@
     "requirementsAttributes" : {
         "0" : { }
     },
-"requirementsEdge": {},
+    "requirementsEdge" : { },
     "requirementsFlexibleAttribute" : {
         "0" : null
     },
@@ -82,7 +82,7 @@
     "exclusionsAttributes" : {
         "0" : { }
     },
-"exclusionsEdge": {},
+    "exclusionsEdge" : { },
     "exclusionsFlexibleAttribute" : {
         "0" : null
     },
@@ -103,9 +103,9 @@
             "WILLPOWER" : 100
         }
     },
-"fixedXPEdge": {
-"0": -25
-},
+    "fixedXPEdge" : {
+        "0" : -25
+    },
     "fixedXPFlexibleAttribute" : {
         "0" : null
     },
@@ -128,11 +128,11 @@
     },
     "fixedXPAbilities" : {
         "0" : {
-"compulsion_other_faction_hate": -100
+            "compulsion_other_faction_hate" : -100
         }
     },
     "flexibleXPAttributes" : { },
-"flexibleXPEdge": {},
+    "flexibleXPEdge" : { },
     "flexibleXPFlexibleAttribute" : { },
     "flexibleXPTraits" : { },
     "flexibleXPSkills" : { },
