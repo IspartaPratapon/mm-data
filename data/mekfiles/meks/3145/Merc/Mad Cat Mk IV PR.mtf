@@ -24,7 +24,7 @@ mul id:6574
 Config:Biped
 techbase:Clan
 era:3130
-source:TRO: 3145 Mercenaries
+source:TR:3145:Merc
 rules level:3
 
 quirk:stable

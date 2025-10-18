@@ -22,7 +22,7 @@ mul id:6404
 Config:Biped Omnimech
 techbase:Clan
 era:3150
-source:TRO: 3145 Draconis Combine
+source:TR:3145:DC
 rules level:4
 role:Sniper
 

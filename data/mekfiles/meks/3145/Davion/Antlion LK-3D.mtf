@@ -21,7 +21,7 @@ mul id:6338
 Config:Quad
 techbase:Mixed (IS Chassis)
 era:3117
-source:TRO: 3145 Federated Suns
+source:TR:3145:FS
 rules level:4
 role:Missile Boat
 

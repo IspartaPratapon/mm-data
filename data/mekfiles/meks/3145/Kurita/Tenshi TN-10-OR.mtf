@@ -22,7 +22,7 @@ mul id:6424
 Config:Biped Omnimech
 techbase:Mixed (IS Chassis)
 era:3101
-source:TRO: 3145 Draconis Combine
+source:TR:3145:DC
 rules level:4
 role:Missile Boat
 
