@@ -16,7 +16,6 @@ tasks.register<Zip>("unitFilesZip") {
         exclude("*.txt")
         exclude("*.xml")
         exclude("units.cache")
-        into("mekfiles")
     }
 }
 
