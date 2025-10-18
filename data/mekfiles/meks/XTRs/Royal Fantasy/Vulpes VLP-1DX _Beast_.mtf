@@ -22,7 +22,7 @@ mul id:8382
 Config:Biped
 techbase:Mixed (IS Chassis)
 era:3134
-source:TRO: 3145 Federated Suns
+source:TR:3145:FS
 rules level:3
 role:Brawler
 

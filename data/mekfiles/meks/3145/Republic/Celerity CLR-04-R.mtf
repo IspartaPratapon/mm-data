@@ -21,7 +21,7 @@ mul id:6709
 Config:Quad
 techbase:Inner Sphere
 era:3138
-source:TRO: 3145 Republic of the Sphere
+source:TR:3145:RotS
 rules level:4
 role:Scout
 

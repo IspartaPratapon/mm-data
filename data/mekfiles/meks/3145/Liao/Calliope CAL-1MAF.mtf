@@ -22,7 +22,7 @@ mul id:6457
 Config:Biped
 TechBase:Inner Sphere
 Era:3127
-Source:TRO: 3145 Capellan Confederation
+Source:TR:3145:CC
 Rules Level:2
 role:Brawler
 
