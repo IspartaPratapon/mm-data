@@ -22,7 +22,7 @@ mul id:6303
 Config:Biped Omnimech
 techbase:Clan
 era:3088
-source:TRO: 3145 The Clans
+source:TR:3145:C
 rules level:4
 role:Sniper
 

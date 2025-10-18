@@ -22,7 +22,7 @@ mul id:6394
 Config:Biped
 TechBase:Mixed (IS Chassis)
 Era:3136
-Source:TRO: 3145 Draconis Combine
+Source:TR:3145:DC
 Rules Level:4
 role:Striker
 

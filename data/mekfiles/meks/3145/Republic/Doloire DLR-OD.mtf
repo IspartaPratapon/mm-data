@@ -22,7 +22,7 @@ mul id:6682
 Config:Biped Omnimech
 TechBase:Mixed (IS Chassis)
 Era:3121
-source:TRO: 3145 Republic of the Sphere
+source:TR:3145:RotS
 Rules Level:3
 role:Skirmisher
 
