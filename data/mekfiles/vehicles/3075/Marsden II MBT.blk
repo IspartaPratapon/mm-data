@@ -34,7 +34,7 @@ Marsden MBT
 </Name>
 
 <model>
-II 
+II
 </model>
 
 <mul id:>
@@ -107,5 +107,5 @@ Machine Gun
 </Turret Equipment>
 
 <source>
-TRO: 3075
+TR:3075
 </source>

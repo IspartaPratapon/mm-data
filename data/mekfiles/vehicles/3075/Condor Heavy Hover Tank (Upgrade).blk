@@ -46,7 +46,7 @@ Condor Heavy Hover Tank
 </year>
 
 <source>
-TRO: 3075
+TR:3075
 </source>
 
 <type>
@@ -129,7 +129,7 @@ A heavy cavalry unit designed for rapid reaction to a shifting battle, the Condo
 </overview>
 
 <deployment>
-Sharing only a minimal resemblance to the Red Devil model, the Condor rolling off Quikscell's Richvale production lines utilizes a wide range of advanced technology. Replacing the internal combustion engine with a more powerful Core Tek 215 XL fusion engine both greatly increases the Condor's speed while freeing up space to carry upgraded weapons array. Giving the Condor the long-range striking power required on the modern battlefield, the standard GM autocannon was replaced with an advanced Mydron Excel 5SG LB-X AC/5, boosting the ammunition carried to two tons to allow for the use of both standard and cluster munitions, while the lasers were dropped for a turret-mounted Valiant Abalest LRM 15-pack fed with two tons of reloads. Based on the experiences of the FedCom Civil War, an extra machine gun was added to the sole original. An upgrade to ten heat sinks and StarSlab/9.5 ferro-fibrous Mk II boost the Condor's staying power in battle. 
+Sharing only a minimal resemblance to the Red Devil model, the Condor rolling off Quikscell's Richvale production lines utilizes a wide range of advanced technology. Replacing the internal combustion engine with a more powerful Core Tek 215 XL fusion engine both greatly increases the Condor's speed while freeing up space to carry upgraded weapons array. Giving the Condor the long-range striking power required on the modern battlefield, the standard GM autocannon was replaced with an advanced Mydron Excel 5SG LB-X AC/5, boosting the ammunition carried to two tons to allow for the use of both standard and cluster munitions, while the lasers were dropped for a turret-mounted Valiant Abalest LRM 15-pack fed with two tons of reloads. Based on the experiences of the FedCom Civil War, an extra machine gun was added to the sole original. An upgrade to ten heat sinks and StarSlab/9.5 ferro-fibrous Mk II boost the Condor's staying power in battle.
 </deployment>
 
 <history>
@@ -147,7 +147,7 @@ Richvale
 <systemManufacturers>
 CHASSIS:Unknown
 ENGINE:Core Tek 215 XL fusion engine
-ARMOR:StarSlab/9.5 Ferro-Fibrous Mk II 
+ARMOR:StarSlab/9.5 Ferro-Fibrous Mk II
 COMMUNICATIONS:TharHes KR-A P/Comm
 TARGETING:TharHes Mars 1 with TAG
 </systemManufacturers>

@@ -120,7 +120,7 @@ CLLRM3
 </Main Gun Equipment>
 
 <source>
-TRO: 3075
+TR:3075
 </source>
 
 <tonnage>
@@ -136,7 +136,7 @@ A middleweight ProtoMech, the Triton was designed by Clan Goliath Scorpion for t
 </overview>
 
 <deployment>
-This is a fire-support variant equipped with an LRM-3 launcher a pair of ER Micro Lasers and an ER Small Laser. 
+This is a fire-support variant equipped with an LRM-3 launcher a pair of ER Micro Lasers and an ER Small Laser.
 </deployment>
 
 <history>

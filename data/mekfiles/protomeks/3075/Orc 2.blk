@@ -113,7 +113,7 @@ CLLRM2
 </Legs Equipment>
 
 <source>
-TRO: 3075
+TR:3075
 </source>
 
 <tonnage>
@@ -129,7 +129,7 @@ The Orc is the first ProtoMech entirely created by Clan Hell's Horses. The Orc e
 </overview>
 
 <deployment>
-This is the fire support version of the Orc. It mounts two LRM-2 launchers and a Machine Gun. The only drawback to this model is the lack of reloads for its LRM racks. 
+This is the fire support version of the Orc. It mounts two LRM-2 launchers and a Machine Gun. The only drawback to this model is the lack of reloads for its LRM racks.
 </deployment>
 
 <history>

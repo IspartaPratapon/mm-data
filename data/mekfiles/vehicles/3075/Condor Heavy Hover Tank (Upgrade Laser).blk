@@ -46,7 +46,7 @@ Condor Heavy Hover Tank
 </year>
 
 <source>
-TRO: 3075
+TR:3075
 </source>
 
 <type>
@@ -130,7 +130,7 @@ A heavy cavalry unit designed for rapid reaction to a shifting battle, the Condo
 </overview>
 
 <deployment>
-An attempt by Quikscell to reduce the Condor's dependence on ammunition based weaponry, this variant of the upgraded tank replaced the autocannon with a Cyclops extended-range large laser, with the remaining weight being used to add a turret-mounted anti-missile system, a Guardian ECM suite, and an additional ton of armor. 
+An attempt by Quikscell to reduce the Condor's dependence on ammunition based weaponry, this variant of the upgraded tank replaced the autocannon with a Cyclops extended-range large laser, with the remaining weight being used to add a turret-mounted anti-missile system, a Guardian ECM suite, and an additional ton of armor.
 </deployment>
 
 <history>
@@ -148,7 +148,7 @@ Richvale
 <systemManufacturers>
 CHASSIS:Unknown
 ENGINE:Core Tek 215 XL fusion engine
-ARMOR:StarSlab/9.5 Ferro-Fibrous Mk II 
+ARMOR:StarSlab/9.5 Ferro-Fibrous Mk II
 COMMUNICATIONS:TharHes KR-A P/Comm
 TARGETING:TharHes Mars 1 with TAG
 </systemManufacturers>
