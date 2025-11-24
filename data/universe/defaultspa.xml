@@ -1943,6 +1943,17 @@ This Flaw only has a mechanical effect when using Alternate Advanced Medical.]]>
         <weight>1</weight>
         <skillPrereq />
     </ability>
+    <ability>
+        <lookupName>unofficial_adaptive_immunity</lookupName>
+        <displayName>Adaptive Immunity (Unofficial)</displayName>
+        <desc><![CDATA[This character is immune to contagious diseases.
+
+This Flaw only has a mechanical effect when using Alternate Advanced Medical.]]></desc>
+        <xpCost>100</xpCost>
+        <originOnly>true</originOnly>
+        <weight>1</weight>
+        <skillPrereq />
+    </ability>
 
     <!-- OTHER SPA -->
     <ability>
