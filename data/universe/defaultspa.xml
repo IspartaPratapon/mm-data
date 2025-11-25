@@ -225,7 +225,7 @@
     </ability>
     <ability>
         <lookupName>aptitude_piloting</lookupName>
-        <xpCost>500</xpCost>
+        <xpCost>300</xpCost>
         <originOnly>false</originOnly>
         <weight>1</weight>
         <skillPrereq>
@@ -445,7 +445,7 @@
     </ability>
     <ability>
         <lookupName>aptitude_gunnery</lookupName>
-        <xpCost>500</xpCost>
+        <xpCost>300</xpCost>
         <originOnly>false</originOnly>
         <weight>1</weight>
         <skillPrereq>
