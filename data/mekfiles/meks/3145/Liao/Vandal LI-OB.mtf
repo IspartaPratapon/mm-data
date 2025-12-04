@@ -22,7 +22,7 @@ mul id:6463
 Config:Biped Omnimech
 TechBase:Inner Sphere
 Era:3142
-Source:TRO: 3145 Capellan Confederation
+Source:TR:3145:CC
 Rules Level:4
 role:Skirmisher
 

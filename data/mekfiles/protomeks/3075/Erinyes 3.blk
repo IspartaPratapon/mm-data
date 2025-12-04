@@ -109,7 +109,7 @@ CLLightMG
 </Legs Equipment>
 
 <source>
-TRO: 3075
+TR:3075
 </source>
 
 <tonnage>
@@ -125,7 +125,7 @@ Clan Jade Falcon's initial design and production was the Erinyes ProtoMech. Khan
 </overview>
 
 <deployment>
-The Erinyes 3 is apparently a derivative of the Erinyes 2, using the same larger engine. However, it increases leg armor protection and uses a Light Machine Gun. 
+The Erinyes 3 is apparently a derivative of the Erinyes 2, using the same larger engine. However, it increases leg armor protection and uses a Light Machine Gun.
 </deployment>
 
 <history>

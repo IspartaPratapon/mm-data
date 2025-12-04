@@ -114,7 +114,7 @@ CLLRM3
 </Main Gun Equipment>
 
 <source>
-TRO: 3075
+TR:3075
 </source>
 
 <tonnage>
@@ -126,7 +126,7 @@ Unlike most second generation Protos, the Basilisk has a relatively low top spee
 </capabilities>
 
 <overview>
-The Basilisk ProtoMech was designed and built by Clan Cloud Cobra to support their Elemental and OmniMech forces. 
+The Basilisk ProtoMech was designed and built by Clan Cloud Cobra to support their Elemental and OmniMech forces.
 </overview>
 
 <deployment>

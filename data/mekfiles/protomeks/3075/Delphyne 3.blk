@@ -114,7 +114,7 @@ CLMicroPulseLaser
 </Legs Equipment>
 
 <source>
-TRO: 3075
+TR:3075
 </source>
 
 <tonnage>
@@ -126,7 +126,7 @@ Capable of keeping pace with heavy and assault units. With two tons of armor wer
 </capabilities>
 
 <overview>
-Basing the design on the lessons learned from producing the Minotaur, the Delphyne is one of the most effective heavy ProtoMechs. 
+Basing the design on the lessons learned from producing the Minotaur, the Delphyne is one of the most effective heavy ProtoMechs.
 </overview>
 
 <deployment>

@@ -15,6 +15,7 @@ tasks.register<Zip>("unitFilesZip") {
     from("data/mekfiles") {
         exclude("*.txt")
         exclude("*.xml")
+        exclude("*.cache")
     }
 }
 
@@ -67,9 +68,11 @@ tasks.register<Copy>("stageMMFiles") {
         include("mapsetup/**/*.*")
         include("mekfiles/*.txt")
         include("mekfiles/*.xml")
+        exclude("mekfiles/*.cache")
         include("names/**/*.*")
         include("scenarios/**/*.*")
         include("sounds/**/*.*")
+        include("sourcebooks/*.*")
         include("universe/eras.xml")
         include("universe/commands/**/*.*")
         include("universe/factions/**/*.*")
@@ -78,6 +81,7 @@ tasks.register<Copy>("stageMMFiles") {
     from(stagingFolder) {
         include("mekfiles/**/*.*")
         include("rat/**/*.*")
+        exclude("mekfiles/*.cache")
     }
 
     into("${stagingFolder}/mm")
@@ -100,6 +104,8 @@ tasks.register<Copy>("stageMMLFiles") {
         include("images/widgets/**/*.*")
         include("mekfiles/*.txt")
         include("mekfiles/*.xml")
+        exclude("mekfiles/*.cache")
+        include("sourcebooks/*.*")
         include("universe/commands/**/*.*")
         include("universe/factions/**/*.*")
         include("universe/eras.xml")
@@ -107,6 +113,7 @@ tasks.register<Copy>("stageMMLFiles") {
 
     from(stagingFolder) {
         include("mekfiles/**/*.*")
+        exclude("mekfiles/*.cache")
     }
 
     into("${stagingFolder}/mml")
@@ -141,6 +148,7 @@ tasks.register<Copy>("stageFiles") {
 
     from(stagingFolder) {
         include("mekfiles/**/*.*")
+        exclude("mekfiles/*.cache")
         include("rat/**/*.*")
         include("universe/**/*.*")
     }

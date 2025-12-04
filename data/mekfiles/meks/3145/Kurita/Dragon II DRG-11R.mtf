@@ -22,7 +22,7 @@ mul id:6415
 Config:Biped
 TechBase:Mixed (IS Chassis)
 Era:3102
-Source:TRO: 3145 Draconis Combine
+Source:TR:3145:DC
 Rules Level:4
 role:Missile Boat
 

@@ -107,7 +107,7 @@ Machine Gun
 </Rotor Equipment>
 
 <source>
-TRO: 3058
+TR:3058U
 </source>
 
 <tonnage>
@@ -151,7 +151,7 @@ TARGETING:None
 </systemManufacturers>
 
 <source>
-TRO: 3039
+TR:3039
 </source>
 
 <tonnage>

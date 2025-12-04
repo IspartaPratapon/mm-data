@@ -22,7 +22,7 @@ mul id:6354
 Config:Biped Omnimech
 TechBase:Inner Sphere
 Era:3100
-Source:TRO: 3145 Federated Suns
+Source:TR:3145:FS
 Rules Level:2
 role:Brawler
 

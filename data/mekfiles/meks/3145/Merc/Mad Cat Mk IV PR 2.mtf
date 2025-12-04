@@ -24,7 +24,7 @@ mul id:6575
 Config:Biped
 techbase:Clan
 era:3131
-source:TRO: 3145 Mercenaries
+source:TR:3145:Merc
 rules level:3
 role:Skirmisher
 

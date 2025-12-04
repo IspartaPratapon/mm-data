@@ -98,7 +98,7 @@ Missile Boat
 Tracked
 </motion_type>
 <source>
-TRO: 3085
+TR:3085
 </source>
 
 <capabilities>
@@ -106,7 +106,7 @@ The result is a slow-moving tank that can literally demolish anything in its pat
 </capabilities>
 
 <overview>
-The 'Demolisher II heavy tank is an upgrade of the original Demolisher, whose factory on Sudeten was lost to Clan Jade Falcon. 
+The 'Demolisher II heavy tank is an upgrade of the original Demolisher, whose factory on Sudeten was lost to Clan Jade Falcon.
 </overview>
 
 <deployment>

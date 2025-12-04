@@ -21,7 +21,7 @@ mul id:6396
 Config:Biped Omnimech
 techbase:Inner Sphere
 era:3133
-source:TRO: 3145 Draconis Combine
+source:TR:3145:DC
 rules level:2
 role:Missile Boat
 

@@ -107,7 +107,7 @@ Medium Re-engineered Laser
 </Turret Equipment>
 
 <source>
-Record Sheets: 3145 New Tech New Upgrades
+RS:3145-NTNU
 </source>
 
 <tonnage>
@@ -147,7 +147,7 @@ TARGETING:TharHes Mars 1 with TAG
 </systemManufacturers>
 
 <source>
-Rec Guide:ilClan #26
+RG26
 </source>
 
 <capabilities>
@@ -183,7 +183,7 @@ TARGETING:TharHes Mars 1 with TAG
 </systemManufacturers>
 
 <source>
-Rec Guide:ilClan #26
+RG26
 </source>
 
 <capabilities>
@@ -219,5 +219,5 @@ TARGETING:TharHes Mars 1 with TAG
 </systemManufacturers>
 
 <source>
-Rec Guide:ilClan #26
+RG26
 </source>

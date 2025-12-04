@@ -21,6 +21,7 @@
     <contractTypeName>Guerrilla Warfare</contractTypeName>
     <alliedFacilityCount>0</alliedFacilityCount>
     <briefing>Engage hostile forces. Be quick.</briefing>
+    <allowEarlyVictory>false</allowEarlyVictory>
     <hostileFacilityCount>-1</hostileFacilityCount>
     <objectivesBehaveAsVPs>true</objectivesBehaveAsVPs>
     <scenarioOdds>
@@ -30,10 +31,12 @@
         <scenarioOdds>20</scenarioOdds>
     </scenarioOdds>
     <deploymentTimes>
-        <deploymentTimes>0</deploymentTimes>
-        <deploymentTimes>1</deploymentTimes>
         <deploymentTimes>2</deploymentTimes>
+        <!-- The value '3' is intentionally repeated three times to weight the probability of selecting 4 as a deployment time. -->
         <deploymentTimes>3</deploymentTimes>
+        <deploymentTimes>3</deploymentTimes>
+        <deploymentTimes>3</deploymentTimes>
+        <deploymentTimes>4</deploymentTimes>
     </deploymentTimes>
     <objectiveParameters>
         <objectiveParameter>
@@ -45,8 +48,8 @@
             </objectiveScenarioModifiers>
         </objectiveParameter>
         <objectiveParameter>
-            <objectiveCount>-0.5</objectiveCount>
-            <objectiveType>AnyScenarioVictory</objectiveType>
+            <objectiveCount>-2.0</objectiveCount>
+            <objectiveType>SpecificScenarioVictory</objectiveType>
             <objectiveScenarios>
                 <objectiveScenario>Convoy Interdiction.xml</objectiveScenario>
                 <objectiveScenario>Convoy Raid.xml</objectiveScenario>
@@ -55,7 +58,6 @@
                 <objectiveScenario>Intercept Engagement.xml</objectiveScenario>
                 <objectiveScenario>Recon Evasion.xml</objectiveScenario>
                 <objectiveScenario>VIP Ambush.xml</objectiveScenario>
-                <objectiveScenario>Skirmish.xml</objectiveScenario>
                 <objectiveScenario>Tactical Withdrawal.xml</objectiveScenario>
             </objectiveScenarios>
         </objectiveParameter>

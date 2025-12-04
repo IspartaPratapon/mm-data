@@ -38,12 +38,12 @@
         <destinationZone>5</destinationZone>
         <fixedUnitCount>0</fixedUnitCount>
         <forceAlignment>1</forceAlignment>
-        <forceMultiplier>0.25</forceMultiplier>
+        <forceMultiplier>0.1</forceMultiplier>
         <forceName>Joint Force</forceName>
         <generationMethod>2</generationMethod>
         <generationOrder>1</generationOrder>
         <maxWeightClass>4</maxWeightClass>
-        <minWeightClass>2</minWeightClass>
+        <minWeightClass>3</minWeightClass>
         <retreatThreshold>0</retreatThreshold>
         <startingAltitude>0</startingAltitude>
         <objectiveLinkedForces>

@@ -50,8 +50,9 @@ Water Elemental Mining Suit
 </originalBuildYear>
 
 <type>
-Mixed (IS Chassis) Experimental
+Mixed (Clan Chassis) Experimental
 </type>
+
 
 <motion_type>
 UMU
@@ -92,7 +93,7 @@ Hades Industrial Complex
 </primaryFactory>
 
 <source>
-TRO: Golden Century
+TR:GC
 </source>
 
 <chassis>

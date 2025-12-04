@@ -109,7 +109,7 @@ ISERMediumLaser
 </Turret Equipment>
 
 <source>
-XTR: Marik
+XTR:Marik
 </source>
 
 <tonnage>
@@ -148,7 +148,7 @@ TARGETING:Maxell TA50
 </systemManufacturers>
 
 <source>
-TRO: 3058 Upgrade
+TR:3058U
 </source>
 
 <quirks>

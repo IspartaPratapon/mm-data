@@ -23,7 +23,7 @@ mul id:6332
 Config:Biped
 techbase:Inner Sphere
 era:3131
-source:TRO: 3145 Federated Suns
+source:TR:3145:FS
 rules level:4
 role:Striker
 

@@ -126,7 +126,7 @@ IS Ammo SRM-4
 </Fuselage Equipment>
 
 <source>
-TRO: 3039
+TR:3039
 </source>
 
 <tonnage>
@@ -169,7 +169,7 @@ This variant is unique to the MUL as it has the ER PPCs. But I've adjusted the d
 </notes>
 
 <source>
-Historical: Operation Klondike
+His:OK
 </source>
 
 <tonnage>

@@ -80,7 +80,7 @@ None
 VTOL
 </motion_type>
 <source>
-TRO: 3058
+TR:3058U
 </source>
 
 <quirks>
@@ -120,7 +120,7 @@ TARGETING:None
 </systemManufacturers>
 
 <source>
-TRO: 3039
+TR:3039
 </source>
 
 <tonnage>

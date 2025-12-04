@@ -74,7 +74,7 @@ Scout
 </year>
 
 <source>
-TRO: 3085
+TR:3085
 </source>
 
 <internal_type>
@@ -121,5 +121,5 @@ Carlisle
 ENGINE:Edasich Omni 25 Fusion
 ARMOR:Durallex Guardian Heavy Ferro-Fibrous
 COMMUNICATIONS:TharHes Hm 10 with Guardian
-TARGETING:TharHes Alpha-2a 
+TARGETING:TharHes Alpha-2a
 </systemManufacturers>
