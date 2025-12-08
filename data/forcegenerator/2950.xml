@@ -3770,7 +3770,7 @@
             </model>
         </chassis>
         <chassis name='Highlander' unitType='Mek'>
-            <availability>LA:2,DC:1,CC:2,CS:9,CLAN!Front Line:1!Second Line:1!Solahma:1,CBS!Keshik:2!Front Line:3!Second Line:2!Solahma:1,CB!Keshik:1!Front Line:1!Second Line:1!Solahma:1,CCC!Front Line:1!Second Line:2,CCO!Keshik:1!Front Line:1!Second Line:3!Solahma:1,CFM!Front Line:1!Second Line:2!Solahma:1,CGB!Front Line:1!Second Line:2!Solahma:1,CGS!Keshik:1!Front Line:2!Second Line:2!Solahma:1,CHH!Front Line:1!Second Line:2!Solahma:1,CIH!Second Line:1!Solahma:1,CJF!Keshik:1!Front Line:1!Second Line:1,Solahma:1,CNC!Keshik:1!Front Line:1!Second Line:2!Solahma:1,CDS!Front Line:1!Second Line:1!Solahma:1,CSJ!Second Line:3!Solahma:1,CSR!Front Line:1!Second Line:1!Solahma:1,CSA!Front Line:1!Second Line:1!Solahma:1,CSV!Front Line:1!Second Line:1,CW!Second Line:2!Solahma:1,NIOPS:9,BAN:2+</availability>
+            <availability>LA:2,DC:1,CC:2,CS:9,CLAN!Front Line:1!Second Line:1!Solahma:1,CBS!Keshik:2!Front Line:3!Second Line:2!Solahma:1,CB!Keshik:1!Front Line:1!Second Line:1!Solahma:1,CCC!Front Line:1!Second Line:2,CCO!Keshik:1!Front Line:1!Second Line:3!Solahma:1,CFM!Front Line:1!Second Line:2!Solahma:1,CGB!Front Line:1!Second Line:2!Solahma:1,CGS!Keshik:1!Front Line:2!Second Line:2!Solahma:1,CHH!Front Line:1!Second Line:2!Solahma:1,CIH!Second Line:1!Solahma:1,CJF!Keshik:1!Front Line:1!Second Line:1!Solahma:1,CNC!Keshik:1!Front Line:1!Second Line:2!Solahma:1,CDS!Front Line:1!Second Line:1!Solahma:1,CSJ!Second Line:3!Solahma:1,CSR!Front Line:1!Second Line:1!Solahma:1,CSA!Front Line:1!Second Line:1!Solahma:1,CSV!Front Line:1!Second Line:1,CW!Second Line:2!Solahma:1,NIOPS:9,BAN:2+</availability>
             <model name='HGN-732'>
                 <roles>command</roles>
                 <availability>CS:8,CLAN:4-,NIOPS:8,BAN:6</availability>
@@ -4358,7 +4358,7 @@
                 <availability>CHH:6,General:8,CJF:6,CGB:6</availability>
             </model>
             <model name='(XL)'>
-                <availability>CHH:6,Clan:6,CJF:6,CGB:6</availability>
+                <availability>CHH:6,CLAN:6,CJF:6,CGB:6</availability>
             </model>
         </chassis>
         <chassis name='Koschei' unitType='Mek'>
